@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sntwandy/nodejs-examples/issues"
   },
-  "homepage": "https://github.com/sntwandy/nodejs-examples#readme"
+  "homepage": "https://github.com/sntwandy/nodejs-examples#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
